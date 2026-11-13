@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  路线分享用：只暴露 cacheDir/route_share 这一个目录，
+  不把整个 cache 或 files 目录交出去。
+-->
+<paths>
+    <cache-path name="route_share" path="route_share/" />
+</paths>
